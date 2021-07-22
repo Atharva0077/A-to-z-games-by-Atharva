@@ -1,0 +1,33 @@
+*{
+  margin: 20px;
+  padding: 0;
+    background-color: green;
+}
+
+#text3{
+  width: 50%;
+  margin: 20px;
+}
+
+#Game1text{
+  float: right;
+  position: absolute;
+  left: 700px;
+  top: 0px;
+}
+
+#maze{
+  float: right;
+}
+
+.Game1{
+  position: relative;
+  margin: 25px;
+}
+
+.container{
+
+}
+.firstText{
+  margin: 10px;
+}
